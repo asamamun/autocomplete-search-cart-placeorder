@@ -26,5 +26,7 @@ $("#productname").autocomplete({
 					var id = ui.item.id;
 					addProduct(id);
 				}
-			});
+});
 ```
+
+For more information visit [AUTOCOMPLETE API](https://api.jqueryui.com/autocomplete/).
