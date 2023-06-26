@@ -29,4 +29,4 @@ $("#productname").autocomplete({
 });
 ```
 
-For more information visit [AUTOCOMPLETE API](https://api.jqueryui.com/autocomplete/).
+For more information visit [AUTOCOMPLETE WIDGET](https://api.jqueryui.com/autocomplete/).
